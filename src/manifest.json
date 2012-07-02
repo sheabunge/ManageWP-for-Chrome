@@ -1,0 +1,17 @@
+{
+	"name": "ManageWP",
+	"description": "Manage all your WordPress-powered blogs from one dashboard.",
+	"app": {
+		"launch": {
+			"web_url": "https://managewp.com/wp-admin/"
+		},
+		"urls": [ "http://managewp.com/", "http://managewp.com/wp-admin/", "https://managewp.com/", "https://managewp.com/wp-admin/" ]
+	},
+	"icons": {
+		"128": "icon_128.png"
+	},
+	"options_page": "https://managewp.com/wp-admin/admin.php?page=mwp-settings",
+	"permissions": [ "background" ],
+	"version": "1.0"
+	
+}
