@@ -18,4 +18,6 @@ Installation
 
 If you're having trouble, please [create an issue](https://github.com/bungeshea/ManageWP-for-Chrome/issues).
 
+***
+
 DISCLAIMER: The ManageWP app for Chrome as described and linked to in this post is in no way authorized, affiliated or endorsed by the ManageWP Team or the ManageWP website. I have made this app in the hope that it will be useful, but no warranty is given. The app is not an official ManageWP product.
