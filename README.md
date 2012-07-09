@@ -4,6 +4,7 @@ ManageWP for Chrome
 Provides a link to your [ManageWP](http://managewp.com) Dashboard from Chrome's new tab page.
 
 More information at the [project's website](http://bungeshea.guthub.com/managewp-for-chrome).
+Download, fork or watch the project on [GitHub](https://github.com/bungeshea/managewp-for-chrome).
 
 Updates will be posted [on my blog](http://bungeshea.wordpress.com/tag/managewp-for-chrome).
 
