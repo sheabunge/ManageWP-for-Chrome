@@ -14,7 +14,7 @@ Installation
 1. Download a [zip of the master branch](https://github.com/bungeshea/managewp-for-chrome/zipball/master) to your local machine
 1. Unzip the file
 1. Launch Chrome
-1. Open up a new tab page and drag the `managewp-for-chrome.crx` onto it.
+1. Open up a new tab page and drag the `managewp-for-chrome.crx` file onto it.
 1. Confirm the installation
 
 If you're having trouble, please [create an issue](https://github.com/bungeshea/managewp-for-chrome/issues).
