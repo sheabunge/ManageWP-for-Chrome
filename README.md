@@ -1,12 +1,16 @@
 ManageWP for Chrome
 ===================
 
+__Note:__ ManageWP is now an official app in the [Chrome Web Store](https://chrome.google.com/webstore/detail/jfehlfmidmihiohmobbfnbpgkckijbjj)! All future updates will be posted there.
+
+***
+
 Provides a link to your [ManageWP](http://managewp.com) Dashboard from Chrome's new tab page.
 
 More information at the [project's website](http://bungeshea.guthub.com/managewp-for-chrome).
 Download, fork or watch the project on [GitHub](https://github.com/bungeshea/managewp-for-chrome).
 
-Updates will be posted [on my blog](http://bungeshea.wordpress.com/tag/managewp-for-chrome).
+Updates will be posted [on my blog](http://bungeshea.tk/tag/managewp-for-chrome).
 
 Installation
 ------------
@@ -25,4 +29,4 @@ If you're having trouble, please [create an issue](https://github.com/bungeshea/
 
 ***
 
-DISCLAIMER: The ManageWP app for Chrome as described and linked to in this post is in no way authorized, affiliated or endorsed by the ManageWP Team or the ManageWP website. I have made this app in the hope that it will be useful, but no warranty is given. The app is not an official ManageWP product.
+`DISCLAIMER: The ManageWP app for Chrome as described and linked to in this post is in no way authorized, affiliated or endorsed by the ManageWP Team or the ManageWP website. I have made this app in the hope that it will be useful, but no warranty is given. The app is not an official ManageWP product.`
