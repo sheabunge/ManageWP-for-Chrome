@@ -1,17 +1,18 @@
 {
-	"name": "ManageWP",
-	"description": "Manage all your WordPress-powered blogs from one dashboard.",
-	"app": {
-		"launch": {
-			"web_url": "https://managewp.com/wp-admin/"
-		},
-		"urls": [ "http://managewp.com/", "http://managewp.com/wp-admin/", "https://managewp.com/", "https://managewp.com/wp-admin/" ]
-	},
-	"icons": {
-		"128": "icon_128.png"
-	},
-	"options_page": "https://managewp.com/wp-admin/admin.php?page=mwp-settings",
-	"permissions": [ "background" ],
-	"version": "1.0"
-	
+   "app": {
+      "launch": {
+         "web_url": "https://managewp.com/wp-admin/"
+      },
+      "urls": [ "http://managewp.com/", "http://managewp.com/wp-admin/", "https://managewp.com/", "https://managewp.com/wp-admin/" ]
+   },
+   "description": "Manage all your WordPress-powered blogs from one dashboard.",
+   "icons": {
+      "128": "icon_128.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDG6VxRbLYF/S1A9IzAlMqN/+kV+csd3L7DomoaVoTl3hXnEj62AKJVH8KURgAM/7UaN1Ym43CPl9ccEz2iwyBs642QSm4a6WZfgkbLry1YeEInWtFx3N0GmHnzDYqqgu4E9Vy4F/b4hkQoMtOEUVltR9PBn1qgs1x9cN2u9p7BtQIDAQAB",
+   "name": "ManageWP",
+   "options_page": "https://managewp.com/wp-admin/admin.php?page=mwp-settings",
+   "permissions": [ "background" ],
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.4"
 }
